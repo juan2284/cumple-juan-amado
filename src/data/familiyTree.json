@@ -1,0 +1,131 @@
+{
+  "family": [
+    {
+      "family_name": "Ruiz Benitez",
+      "padre": "Juan de las Mercedes Ruiz Gárate",
+      "madre": "María Benitez Rubin de Ruiz",
+      "hijos": [
+        "Juan Amado Ruiz Benitez",
+        "Juana Ruiz Benitez",
+        "Juan Bautista Ruiz Benitez",
+        "Baudilio Benitez",
+        "Silverio Benitez"
+      ],
+      "heraldica": [
+        "ruiz.png",
+        "benitez.png"
+      ],
+      "nivel": 0
+    },
+    {
+      "family_name": "Romero Sosa",
+      "padre": "Jesús Romero",
+      "madre": "Victoria Sosa",
+      "hijos": [
+        "Elvira De Jesús Sosa",
+        "Daniel Sosa",
+        "Cecilia Sosa"
+      ],
+      "heraldica": [
+        "romero.png",
+        "sosa.png"
+      ],
+      "nivel": 0
+    },
+    {
+      "family_name": "Ruiz Sosa",
+      "padre": "Juan Amado Ruiz Benitez",
+      "madre": "Elvira De Jesús Sosa",
+      "hijos": [
+        "Juan Amado Ruiz Sosa",
+        "Maritza Del Valle Ruiz Sosa",
+        "Alfredo Ruiz Sosa",
+        "José Luis Ruiz Sosa"
+      ],
+      "heraldica": [
+        "ruiz.png",
+        "sosa.png"
+      ],
+      "nivel": 1
+    },
+    {
+      "family_name": "Rodriguez Ruiz",
+      "padre": "José Rafael Rodriguez Gonzalez",
+      "madre": "Maritza Del Valle Ruiz Sosa",
+      "hijos": [
+        "Juan Rafael Rodriguez Ruiz",
+        "José Francisco Rodriguez Ruiz"
+      ],
+      "heraldica": [
+        "rodriguez.png",
+        "ruiz.png"
+      ],
+      "nivel": 2
+    },
+    {
+      "family_name": "Ruiz Zambrano",
+      "padre": "Alfredo Ruiz Sosa",
+      "madre": "Carolina Zambrano",
+      "hijos": [
+        "Maria Daniela Ruiz Zambrano"
+      ],
+      "heraldica": [
+        "ruiz.png",
+        "zambrano.png"
+      ],
+      "nivel": 2
+    },
+    {
+      "family_name": "Ruiz Alvarez",
+      "padre": "José Luis Ruiz Sosa",
+      "madre": "Marilyn Alvarez",
+      "hijos": [
+        "Mayerlin Alvarez"
+      ],
+      "heraldica": [
+        "ruiz.png",
+        "alvarez.png"
+      ],
+      "nivel": 2
+    },
+    {
+      "family_name": "Ruiz",
+      "padre": "Juan Amado Ruiz Sosa",
+      "madre": "Nancy",
+      "hijos": [
+        "Yunalivi Ruiz",
+        "Victoria Ruiz"
+      ],
+      "heraldica": [
+        "ruiz.png"
+      ],
+      "nivel": 2
+    },
+    {
+      "family_name": "Rodriguez Acosta",
+      "padre": "José Francisco Rodriguez Ruiz",
+      "madre": "Dayana Carolina Acosta",
+      "hijos": [
+        "Santiago David Rodriguez Acosta",
+        "Lucas Daniel Rodriguez Acosta"
+      ],
+      "heraldica": [
+        "rodriguez.png",
+        "acosta.png"
+      ],
+      "nivel": 3
+    },
+    {
+      "family_name": "Alvarez",
+      "padre": "",
+      "madre": "Mayerlin Alvarez",
+      "hijos": [
+        "Mariangie Alvarez"
+      ],
+      "heraldica": [
+        "alvarez.png"
+      ],
+      "nivel": 3
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Juan de las Mercedes Ruiz Gárate",
+    "image": "juan_abuelo.jpg",
+    "birthday": "24-09",
+    "genre": "m",
+    "death": "30-03-1974",
+    "birthdayCard": "",
+    "hijos": [
+      "Juan Amado Ruiz Benitez",
+      "Juana Ruiz Benitez",
+      "Juan Bautista Ruiz Benitez",
+      "Baudilio Benitez",
+      "Silverio Benitez"
+    ]
+  },
+  {
+    "name": "María Benitez Rubin de Ruiz",
+    "image": "maria.jpg",
+    "birthday": "24-01-1901",
+    "genre": "f",
+    "death": "28-12-1988",
+    "birthdayCard": "",
+    "hijos": [
+      "Juan Amado Ruiz Benitez",
+      "Juana Ruiz Benitez",
+      "Juan Bautista Ruiz Benitez",
+      "Baudilio Benitez",
+      "Silverio Benitez"
+    ]
+  },
+  {
+    "name": "Juan Amado Ruiz Benitez",
+    "image": "juan_padre.jpg",
+    "birthday": "13-09-1941",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": [
+      "Juan Amado Ruiz Sosa",
+      "Maritza Del Valle Ruiz Sosa",
+      "Alfredo Ruiz Sosa",
+      "José Luis Ruiz Sosa"
+    ]
+  },
+  {
+    "name": "Juana Ruiz Benitez",
+    "image": "",
+    "birthday": "12-02",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Juan Bautista Ruiz Benitez",
+    "image": "",
+    "birthday": "24-06",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Baudilio Benitez",
+    "image": "",
+    "birthday": "",
+    "genre": "m",
+    "death": "08-10-1987",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Silverio Benitez",
+    "image": "",
+    "birthday": "",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Jesús Romero",
+    "image": "",
+    "birthday": "",
+    "genre": "m",
+    "death": "circa. 1940",
+    "birthdayCard": "",
+    "hijos": [
+      "Elvira de Jesús Sosa"
+    ]
+  },
+  {
+    "name": "Victoria Sosa",
+    "image": "victoria.jpg",
+    "birthday": "",
+    "genre": "f",
+    "death": "circa. 1941",
+    "birthdayCard": "",
+    "hijos": [
+      "Elvira De Jesús Sosa",
+      "Daniel Sosa",
+      "Cecilia Sosa"
+    ]
+  },
+  {
+    "name": "Elvira De Jesús Sosa",
+    "image": "elvira.jpg",
+    "birthday": "12-08-1940",
+    "genre": "f",
+    "death": "02-10-2020",
+    "birthdayCard": "",
+    "hijos": [
+      "Juan Amado Ruiz Sosa",
+      "Maritza Del Valle Ruiz Sosa",
+      "Alfredo Ruiz Sosa",
+      "José Luis Ruiz Sosa"
+    ]
+  },
+  {
+    "name": "Daniel Sosa",
+    "image": "daniel.jpg",
+    "birthday": "15-05",
+    "genre": "m",
+    "death": "10-12-2005",
+    "birthdayCard": "",
+    "hijos": [
+      "Daniel Sosa"
+    ]
+  },
+  {
+    "name": "Cecilia Sosa",
+    "image": "",
+    "birthday": "",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Juan Amado Ruiz Sosa",
+    "image": "",
+    "birthday": "",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": [
+      "Yunalivi Ruiz",
+      "Victoria Ruiz"
+    ]
+  },
+  {
+    "name": "Yunalivi Ruiz",
+    "image": "",
+    "birthday": "",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Victoria Ruiz",
+    "image": "",
+    "birthday": "",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Nancy",
+    "image": "",
+    "birthday": "",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Maritza Del Valle Ruiz Sosa",
+    "image": "maritza.jpg",
+    "birthday": "08-03-1963",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-maritza-ruiz/",
+    "hijos": [
+      "Juan Rafael Rodriguez Ruiz",
+      "José Francisco Rodriguez Ruiz"
+    ]
+  },
+  {
+    "name": "Alfredo Ruiz Sosa",
+    "image": "alfredo.jpg",
+    "birthday": "18-09-1965",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": [
+      "Maria Daniela Ruiz Zambrano"
+    ]
+  },
+  {
+    "name": "José Luis Ruiz Sosa",
+    "image": "jose_luis.jpg",
+    "birthday": "30-10-1966",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-jose-luis/",
+    "hijos": []
+  },
+  {
+    "name": "José Rafael Rodriguez Gonzalez",
+    "image": "",
+    "birthday": "22-08",
+    "genre": "m",
+    "death": "15-02-2023",
+    "birthdayCard": "",
+    "hijos": [
+      "Juan Rafael Rodriguez Ruiz",
+      "José Francisco Rodriguez Ruiz"
+    ]
+  },
+  {
+    "name": "Juan Rafael Rodriguez Ruiz",
+    "image": "juan_nieto.jpg",
+    "birthday": "14-11-1984",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "José Francisco Rodriguez Ruiz",
+    "image": "jose.jpg",
+    "birthday": "15-12-1989",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-jose-francisco/",
+    "hijos": [
+      "Santiago David Rodriguez Acosta",
+      "Lucas Daniel Rodriguez Acosta"
+    ]
+  },
+  {
+    "name": "Carolina Zambrano",
+    "image": "carolina.jpg",
+    "birthday": "23-05-1965",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-carolina/",
+    "hijos": [
+      "Maria Daniela Ruiz Zambrano"
+    ]
+  },
+  {
+    "name": "Maria Daniela Ruiz Zambrano",
+    "image": "maria_daniela.jpg",
+    "birthday": "01-11",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-maria-daniela/",
+    "hijos": []
+  },
+  {
+    "name": "Marilyn Alvarez",
+    "image": "marilyn.jpg",
+    "birthday": "03-10-1976",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": [
+      "Mayerlin Alvarez"
+    ]
+  },
+  {
+    "name": "Mayerlin Alvarez",
+    "image": "",
+    "birthday": "23-07-1994",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": [
+      "Mariangie Alvarez"
+    ]
+  },
+  {
+    "name": "Dayana Carolina Acosta",
+    "image": "dayana.jpg",
+    "birthday": "25-06",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-dayana/",
+    "hijos": [
+      "Santiago David Rodriguez Acosta",
+      "Lucas Daniel Rodriguez Acosta"
+    ]
+  },
+  {
+    "name": "Santiago David Rodriguez Acosta",
+    "image": "santiago.jpg",
+    "birthday": "20-01-2018",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "https://juan2284.github.io/cumple-santiago-david/",
+    "hijos": []
+  },
+  {
+    "name": "Lucas Daniel Rodriguez Acosta",
+    "image": "lucas.jpg",
+    "birthday": "27-06-2024",
+    "genre": "m",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  },
+  {
+    "name": "Mariangie Alvarez",
+    "image": "",
+    "birthday": "08-01",
+    "genre": "f",
+    "death": "",
+    "birthdayCard": "",
+    "hijos": []
+  }
+]
